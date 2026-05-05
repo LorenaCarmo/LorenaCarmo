@@ -1,16 +1,21 @@
-## Hi there 👋
+#Lorena Carmo
 
-<!--
-**LorenaCarmo/LorenaCarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Student<br>
+📍 Minas Gerais, Brazil
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##About Me
+I’m transitioning into tech, focused on backend development and building real projects.<br>
+Currently studying Information Systems and developing practical skills in Python, SQL and automation.
+
+
+##Tech Stack in progress
+- Python<br>
+- Java<br>
+- SQL<br>
+
+
+##Current Focus
+Building real projects
+Improving logic and problem solving
+Preparing for my first internship in software development
