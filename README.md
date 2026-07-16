@@ -1,19 +1,18 @@
 # Lorena Carmo
 
-💻 Software Development Student<br>
+💻 Software Development <br>
 📍 Minas Gerais, Brazil
 
 
 
 ## About Me
 I’m transitioning into tech, focused on backend development and building real projects.<br>
-Currently studying Information Systems and developing practical skills in Python, Java, SQL and automations.
+Currently studying computer science and developing practical skills in Python, SQL and automations.
 
 
 
 ## Tech Stack in Progress
 - Python<br>
-- Java<br>
 - SQL<br>
 
 
