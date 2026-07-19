@@ -1,6 +1,6 @@
 # Lorena Carmo
 
-💻 Software Development | Computer Science Student <br>
+💻 Computer Science Student <br>
 📍 Minas Gerais, Brazil
 
 
