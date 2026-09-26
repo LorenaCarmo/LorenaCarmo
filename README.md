@@ -16,6 +16,7 @@ Currently studying computer science and developing practical skills in Python, S
 - SQL<br>
 - IA <br>
 - Git <br>
+- API REST <br>
 
 
 ## Current Focus
