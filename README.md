@@ -1,40 +1,33 @@
+<h1 align="center">Lorena Carmo</h1>
 
-# Lorena Carmo
+<h4 align="center">Computer Science Student | Backend Developer</h4>
 
-**Computer Science Student | Aspiring Backend Developer**
+<p align="left">
+Graduate in Management Processes and Computer Science student, transitioning into tech with 10+ years of experience between clients and technical teams. I'm looking for a junior or internship role in Backend Development, where I can combine business insight and code to solve real problems.</p>
 
-📍 Minas Gerais, Brazil
+<p align="left">
+<a href="https://www.linkedin.com/in/lorenacarmo">
+  <img src="https://img.shields.io/badge/LinkedIn-3B9AE1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
 
+### Stack
+---
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github" alt="Tech stack" />
+</p>
+
+### Projects in progress
 ---
 
-## About Me
+- Satú: management system for my handmade candle business
+- RAG assistant: AI assistant that answers questions from my own documents
 
-I'm a Computer Science student building a strong foundation in software development, with a focus on backend engineering.
-
-I'm currently developing my programming skills through hands-on exercises and personal projects, while exploring databases, REST APIs, AI, and automation.
-
-My goal is to turn theoretical knowledge into practical solutions and prepare for my first opportunity in tech.
-
-## Technologies & Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Currently exploring:**
-- Backend development
-- REST API fundamentals
-- Databases and SQL
-- AI and automation
-
-## Current Focus
-
-- Strengthening programming fundamentals with Python
-- Building practical projects
-- Improving logic and problem-solving
-- Learning software development best practices
-- Preparing for my first internship in tech
-
+### Currently exploring
 ---
-
-*Learning by building, one project at a time.*
+```
+→ REST APIs with FastAPI
+→ SQL and PostgreSQL
+→ RAG and embeddings
+→ Java and Spring Boot
+```
