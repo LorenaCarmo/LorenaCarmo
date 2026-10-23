@@ -1,9 +1,11 @@
 <h1 align="center">Lorena Carmo</h1>
 
-<h4 align="center">Computer Science Student | Backend Developer</h4>
+<h4 align="center">Computer Science Student · Backend Development · IT Support</h4>
 
 <p align="left">
-Graduate in Management Processes and Computer Science student, transitioning into tech with 10+ years of experience between clients and technical teams. I'm looking for a junior or internship role in Backend Development, where I can combine business insight and code to solve real problems.</p>
+Management Processes graduate currently studying Computer Science, transitioning into tech with 10+ years of experience in customer service, including 2 years as a bridge between clients and technical teams at a software company. I'm looking for an internship or entry-level role in Backend Development or IT Support, in a company where I can learn on the job and contribute with business insight, communication and commitment to solve real problems.
+
+> Learning by doing, persisting when there are no ready-made answers, and imagining tomorrow, working every day to make it possible.</p>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lorenacarmo">
