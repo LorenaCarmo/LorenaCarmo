@@ -1,17 +1,30 @@
-<h1 align="center">Lorena Carmo</h1>
+<div align="left">
 
-<h4 align="center">Computer Science Student · Backend Development · IT Support</h4>
+# Lorena Carmo
 
-<p align="left">
-Management Processes graduate currently studying Computer Science, transitioning into tech with 10+ years of experience in customer service, including 2 years as a bridge between clients and technical teams at a software company. I'm looking for an internship or entry-level role in Backend Development or IT Support, in a company where I can learn on the job and contribute with business insight, communication and commitment to solve real problems.
+**Computer Science Student · Backend Development · IT Support**
 
-> Learning by doing, persisting when there are no ready-made answers, and imagining tomorrow, working every day to make it possible.</p>
+</div>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/lorenacarmo">
-  <img src="https://img.shields.io/badge/LinkedIn-3B9AE1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+---
+
+<div align="left">
+
+Management Processes graduate currently studying Computer Science, transitioning into tech with 10+ years of experience in customer service, including 2 years as a bridge between clients and technical teams at a software company.
+
+I'm looking for an internship or entry-level role in <b>Backend Development</b> or <b>IT Support</b>, in a company where I can learn on the job and contribute with business insight, communication and commitment to solve real problems.
+<br>
+
+><i>Learning by doing, persisting when there are no ready-made answers,and imagining tomorrow, working every day to make it possible.
+</i><br>
+
+<a href="https://www.linkedin.com/in/lorenacarmo/">
+ <img src="https://img.shields.io/badge/-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
+
+<a href="lorena-carmo@outlook.com">
+ <img src="https://img.shields.io/badge/-E--mail-161B22?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0078D4" alt="E-mail">
 </a>
-</p>
+</div>
 
 ### Stack
 ---
