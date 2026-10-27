@@ -21,7 +21,7 @@ I'm looking for an internship or entry-level role in <b>Backend Development</b> 
 <a href="https://www.linkedin.com/in/lorenacarmo/">
  <img src="https://img.shields.io/badge/-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
 
-<a href="lorena-carmo@outlook.com">
+<a href="mailto:lorena-carmo@outlook.com">
  <img src="https://img.shields.io/badge/-E--mail-161B22?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0078D4" alt="E-mail">
 </a>
 </div>
