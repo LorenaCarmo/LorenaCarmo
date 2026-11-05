@@ -2,7 +2,7 @@
 
 # Lorena Carmo
 
-**Computer Science Student · Backend Development · IT Support**
+**Computer Science Student · Backend Development**
 
 </div>
 
@@ -32,17 +32,15 @@ I'm looking for an internship or entry-level role in <b>Backend Development</b> 
   <img src="https://skillicons.dev/icons?i=python,java,postgres,fastapi,git,github,sql" alt="Tech stack" />
 </p>
 
-### Projects in progress
+### Project in progress
 ---
 
 - Satú: management system for my handmade candle business
-- RAG assistant: AI assistant that answers questions from my own documents
 
 ### Currently exploring
 ---
 ```
 → REST APIs with FastAPI
 → SQL and PostgreSQL
-→ RAG and embeddings
 → Java and Spring Boot
 ```
