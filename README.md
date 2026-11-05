@@ -29,7 +29,7 @@ I'm looking for an internship or entry-level role in <b>Backend Development</b> 
 ### Stack
 ---
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,postgres,fastapi,git,github,sql" alt="Tech stack" />
 </p>
 
 ### Projects in progress
