@@ -34,8 +34,8 @@ I'm looking for an internship or entry-level role in <b>Backend Development</b> 
 
 ### Project in progress
 ---
-
-- Satú System: management system for my handmade candle business
+**Satú System**
+- About: Management system for my handmade candle business.
 - Current phase: Requirements gathering and analysis.
 
 ### Currently exploring
