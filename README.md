@@ -2,7 +2,7 @@
 
 # Lorena Carmo
 
-**Computer Science Student · Backend Development**
+**Computer Science Student | Aspiring Backend Developer & IT Support**
 
 </div>
 
