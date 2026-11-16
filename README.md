@@ -35,12 +35,14 @@ I'm looking for an internship or entry-level role in <b>Backend Development</b> 
 ### Project in progress
 ---
 
-- Satú: management system for my handmade candle business
+- Satú System: management system for my handmade candle business
+- Current phase: Requirements gathering and analysis.
 
 ### Currently exploring
 ---
 ```
-→ REST APIs with FastAPI
-→ SQL and PostgreSQL
-→ Java and Spring Boot
+→ IT Support fundamentals and Computer Networking
+→ TCP/IP, IP addressing, DNS and DHCP
+→ Python and REST APIs with FastAPI
+→ SQL and Relational Databases
 ```
